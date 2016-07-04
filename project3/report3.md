@@ -7,5 +7,5 @@
 以回写长度为自变量，回写时间为因变量，处理数据，并画点线图。<br>
 数据： 
 ![data] (http://ww4.sinaimg.cn/mw690/87f91db3gw1f5hnrpmeaaj20w801eaat.jpg "数据")<br>
-画点线图： 
+画点线图： <br> 
 ![plot] (http://ww4.sinaimg.cn/mw690/87f91db3gw1f5hnmrart8j20hv0dfwfd.jpg "折线图")<br>
