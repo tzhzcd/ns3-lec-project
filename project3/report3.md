@@ -4,6 +4,4 @@
 ##Wireshark查看文件截图（能看到计算机用户名）
 ![wireshark] (http://ww1.sinaimg.cn/mw690/87f91db3gw1f5grwkfkr4j20l00gbgs8.jpg "wirshark")
 ##数据处理
-    以回写数据长度为自变量，回写时间为因变量进行数据处理，画图。
-    画图：
-![画图] (http://ww2.sinaimg.cn/mw690/87f91db3gw1f5hn2hrm32j20hu0db75a.jpg "折线图")
+![plot] (http://ww4.sinaimg.cn/mw690/87f91db3gw1f5hncinpaxj20hu0cmgmh.jpg "折线图")
